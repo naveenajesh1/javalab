@@ -1,6 +1,6 @@
 /*
  * File        : Grades.java
- * Description : Print hello world
+ * Description : Print the grades of a student wrt the marks
  * Author      : Naveen
  * Version     : 1.0
  * Date        : 26/09/2023
