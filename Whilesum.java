@@ -1,6 +1,6 @@
 /*
  * File        : Whilesum.java
- * Description : Print hello world
+ * Description : Find the sum of nos till a negative no is inputed(while)
  * Author      : Naveen
  * Version     : 1.0
  * Date        : 26/09/2023
