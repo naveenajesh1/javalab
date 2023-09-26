@@ -1,6 +1,6 @@
 /*
  * File        : Attendance.java
- * Description : Print hello world
+ * Description : To print the Grade wrt the attendace
  * Author      : Naveen
  * Version     : 1.0
  * Date        : 26/09/2023
