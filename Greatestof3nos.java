@@ -1,6 +1,6 @@
 /*
- * File        : Attendance.java
- * Description : Print hello world
+ * File        : Greatestof3nos.java
+ * Description : To find Greatest among 3 nos
  * Author      : Naveen
  * Version     : 1.0
  * Date        : 26/09/2023
