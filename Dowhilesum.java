@@ -1,6 +1,6 @@
 /*
  * File        : Dowhilesum.java
- * Description : Find the sum of nos till a negative no is inputed
+ * Description : Find the sum of nos till a negative no is inputed(do while)
  * Author      : Naveen
  * Version     : 1.0
  * Date        : 26/09/2023
