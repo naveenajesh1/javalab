@@ -1,6 +1,6 @@
 /*
  * File        : Palindrome.java
- * Description : To Check whether a word is Palindrome or not.
+ * Description : To Check whether a word is Palindrome or not
  * Author      : Naveen
  * Version     : 1.0
  * Date        : 03/10/2023
