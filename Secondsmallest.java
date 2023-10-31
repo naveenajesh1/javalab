@@ -1,5 +1,5 @@
 /*
- * File        : Prime.java
+ * File        : Secondsmallest.java
  * Description : Java program to Find the second smallest element in an array
  * Author      : Naveen
  * Version     : 1.0
