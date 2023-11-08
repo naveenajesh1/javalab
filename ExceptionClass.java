@@ -7,8 +7,8 @@ public class ExceptionClass {
 			String s="123";
 			int [] array=new int[5];
 			System.out.println(Integer.parseInt(s));
-			System.out.println(10/0);
-			System.out.println(array[8]);
+			System.out.println(10/5);
+			System.out.println(array[16]);
 		}
 		catch(NumberFormatException e) {
 			//e.printStackTrace();
