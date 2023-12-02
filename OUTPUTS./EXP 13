@@ -1,0 +1,36 @@
+Enter the Table you want to run by thread1 : 
+10
+Enter the Table you want to run by thread2 : 
+5
+Enter the Table you want to run by thread3 : 
+3
+1X10=10
+2X10=20
+3X10=30
+4X10=40
+5X10=50
+6X10=60
+7X10=70
+8X10=80
+9X10=90
+10X10=100
+1X3=3
+2X3=6
+3X3=9
+4X3=12
+5X3=15
+6X3=18
+7X3=21
+8X3=24
+9X3=27
+10X3=30
+1X5=5
+2X5=10
+3X5=15
+4X5=20
+5X5=25
+6X5=30
+7X5=35
+8X5=40
+9X5=45
+10X5=50
