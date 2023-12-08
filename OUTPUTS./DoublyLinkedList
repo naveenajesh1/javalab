@@ -1,0 +1,78 @@
+Enter your choice
+1.Insertion At Front
+2.Insertion At End
+3.Insertion At any position
+4.Deletion at any Position
+5.Display
+6.Exit
+
+1
+Enter the element:
+10
+Enter your choice
+1.Insertion At Front
+2.Insertion At End
+3.Insertion At any position
+4.Deletion at any Position
+5.Display
+6.Exit
+
+2
+Enter the element:
+30
+Enter your choice
+1.Insertion At Front
+2.Insertion At End
+3.Insertion At any position
+4.Deletion at any Position
+5.Display
+6.Exit
+
+3
+Enter the element:
+20
+Enter the position:
+1
+Enter your choice
+1.Insertion At Front
+2.Insertion At End
+3.Insertion At any position
+4.Deletion at any Position
+5.Display
+6.Exit
+
+5
+The elements are :
+10 20 30 
+Enter your choice
+1.Insertion At Front
+2.Insertion At End
+3.Insertion At any position
+4.Deletion at any Position
+5.Display
+6.Exit
+
+4
+Enter the position:
+1
+Enter your choice
+1.Insertion At Front
+2.Insertion At End
+3.Insertion At any position
+4.Deletion at any Position
+5.Display
+6.Exit
+
+5
+The elements are :
+10 30 
+Enter your choice
+1.Insertion At Front
+2.Insertion At End
+3.Insertion At any position
+4.Deletion at any Position
+5.Display
+6.Exit
+
+6
+Exited
