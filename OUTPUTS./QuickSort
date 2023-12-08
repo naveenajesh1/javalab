@@ -1,0 +1,13 @@
+Enter the limit: 5
+Enter the strings to be sorted:
+sharan
+dev
+abin
+naveen
+jake
+Sorted strings:
+abin
+dev
+jake
+naveen
+sharan
